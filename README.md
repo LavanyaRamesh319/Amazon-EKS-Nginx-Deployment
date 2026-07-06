@@ -309,6 +309,3 @@ Verified:
 | Nodes | Execute Workloads |
 
 ```
-
-
-**Email:** *(Add your Email Address)*
